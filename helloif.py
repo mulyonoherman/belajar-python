@@ -1,4 +1,4 @@
-apakah_dosen = True
+apakah_dosen = False
 if (apakah_dosen):
     print "Boleh mengakses halaman dosen..."
 else:
